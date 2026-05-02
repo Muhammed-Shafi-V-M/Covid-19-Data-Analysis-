@@ -93,7 +93,7 @@ The dashboard enables quick identification of high-risk areas, supports comparat
 
 <h3>📸 Dashboard Preview</h3>
 <p align="center">
-  <img src="YOUR_SCREENSHOT_LINK_HERE" width="80%"/>
+  <img src="Screenshot 2026-04-24 113032.png" width="80%"/>
 </p>
 
 <hr/>
